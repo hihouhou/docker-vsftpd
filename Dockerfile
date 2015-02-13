@@ -1,5 +1,5 @@
 #################################################
-# Debian with added pure-ftpd Server.
+# Debian with added vsftpd Server.
 # Uses anonymous only for DL.
 #################################################
 
